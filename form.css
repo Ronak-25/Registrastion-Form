@@ -1,0 +1,28 @@
+.Form{
+    text-align: center;;
+    /* background-color: skyblue; */
+    background-image: url("image.jpg");
+    background-size: "cover";
+    height: 110vh;
+  margin-top: -22px;
+  /* font-size:50px; */
+  /* background-repeat:no-repeat;  */
+}
+
+.label{
+    display: block;
+    font-size: medium;
+    color: black;
+    padding: 5px;
+
+  }
+  .btn{
+    /* color: white; */
+    /* background-color: red; */
+    border-radius: 5px;
+    font-size: medium;
+    /* display: block; */
+    padding: 5px;
+    margin: 10px auto;
+  }
+ 
